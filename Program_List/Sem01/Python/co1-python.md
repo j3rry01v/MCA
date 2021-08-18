@@ -7,7 +7,7 @@
 
 - 📃[3.List comprehensions:
 (a) Generate positive list of numbers from a given list of integers
-(b) Square of N numbers
+(b) Square of N numbers .
 (c) Form a list of vowels selected from a given word
 (d) List ordinal value of each element of a word (Hint: use ord() to get ordinal values) ](https://github.com/j3rry01v/MCA/blob/main/Semester-01/Python-Programming-Lab/Course-Outcome-1-(CO1)/03-List-Comprehensions/List_Operations.py)
 
